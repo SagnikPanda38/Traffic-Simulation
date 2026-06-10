@@ -1,0 +1,3 @@
+Vehicle_ID,Source,Destination,Waiting_Time,Total_Travel_Time,Reward
+1,Administrative,Residential,0,5.4,30
+5,Technology,Industrial,0.03,5.42,29.97
